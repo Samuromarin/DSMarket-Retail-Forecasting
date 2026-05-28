@@ -29,15 +29,14 @@ The dataset is based on the structure of the **M5 Forecasting Competition** (Kag
 
 ## Notebooks
 
-## Notebooks
 
-| Notebook | Open in Colab |
+| Notebook | |
 |---|---|
-| 01 · Preprocesamiento | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Samuromarin/DSMarket-Retail-Forecasting/blob/main/01_preprocesamiento.ipynb) |
-| 02 · EDA | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Samuromarin/DSMarket-Retail-Forecasting/blob/main/02_eda.ipynb) |
-| 03 · Clustering Productos | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Samuromarin/DSMarket-Retail-Forecasting/blob/main/03_clustering_productos.ipynb) |
-| 04 · Clustering Tiendas | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Samuromarin/DSMarket-Retail-Forecasting/blob/main/04_clustering_tiendas.ipynb) |
-| 05 · Modelización | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Samuromarin/DSMarket-Retail-Forecasting/blob/main/05_modelizacion.ipynb) |
+| Preprocesamiento | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Samuromarin/DSMarket-Retail-Forecasting/blob/main/01_preprocesamiento.ipynb) |
+| EDA | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Samuromarin/DSMarket-Retail-Forecasting/blob/main/02_eda.ipynb) |
+| Clustering Productos | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Samuromarin/DSMarket-Retail-Forecasting/blob/main/03_clustering_productos.ipynb) |
+| Clustering Tiendas | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Samuromarin/DSMarket-Retail-Forecasting/blob/main/04_clustering_tiendas.ipynb) |
+| Modelización | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Samuromarin/DSMarket-Retail-Forecasting/blob/main/05_modelizacion.ipynb) |
 ---
 
 ## Tasks

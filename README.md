@@ -23,7 +23,7 @@ The dataset is based on the structure of the **M5 Forecasting Competition** (Kag
 └── modelizacion.ipynb           # Sales forecasting model (XGBoost + skforecast)
 ```
 
-> **Note:** Interactive Plotly charts are not rendered on GitHub. Use the nbviewer links below to view the notebooks with all visualizations.
+> **Note:** Interactive Plotly charts are not rendered on GitHub. Open the notebooks in Google Colab to view all visualizations.
 
 ---
 

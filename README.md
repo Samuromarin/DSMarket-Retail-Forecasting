@@ -31,11 +31,11 @@ The dataset is based on the structure of the **M5 Forecasting Competition** (Kag
 
 | Notebook | nbviewer |
 |---|---|
-| Preprocesamiento | [View →](https://nbviewer.org/github/Samuromarin/DSMarket/blob/main/preprocesamiento.ipynb) |
-| EDA | [View →](https://nbviewer.org/github/Samuromarin/DSMarket/blob/main/eda.ipynb) |
-| Clustering Productos | [View →](https://nbviewer.org/github/Samuromarin/DSMarket/blob/main/clustering_productos.ipynb) |
-| Clustering Tiendas | [View →](https://nbviewer.org/github/Samuromarin/DSMarket/blob/main/clustering_tiendas.ipynb) |
-| Modelización | [View →](https://nbviewer.org/github/Samuromarin/DSMarket/blob/main/modelizacion.ipynb) |
+| Preprocesamiento | [View →](https://nbviewer.org/github/Samuromarin/DSMarket-Retail-Forecasting/blob/main/preprocesamiento.ipynb) |
+| EDA | [View →](https://nbviewer.org/github/Samuromarin/DSMarket-Retail-Forecasting/blob/main/eda.ipynb) |
+| Clustering Productos | [View →](https://nbviewer.org/github/Samuromarin/DSMarket-Retail-Forecasting/blob/main/clustering_productos.ipynb) |
+| Clustering Tiendas | [View →](https://nbviewer.org/github/Samuromarin/DSMarket-Retail-Forecasting/blob/main/clustering_tiendas.ipynb) |
+| Modelización | [View →](https://nbviewer.org/github/Samuromarin/DSMarket-Retail-Forecasting/blob/main/modelizacion.ipynb) |
 
 ---
 

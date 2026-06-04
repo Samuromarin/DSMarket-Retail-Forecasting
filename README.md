@@ -1,6 +1,4 @@
 # DSMarket — End-to-End Machine Learning Project
-
-**Master's Thesis · MSc in Data Science & AI · Nuclio Digital School**  
 *Lucía Zariquiey · Samuel Romero*
 
 ---

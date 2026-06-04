@@ -106,6 +106,6 @@ The dataset follows the structure of the M5 Forecasting Competition and is not i
 - `item_prices.csv` — weekly prices by product and store  
 - `daily_calendar_with_events.csv` — dates, weekdays and commercial events
 
---
+---
 
 *Lucía Zariquiey · Samuel Romero*

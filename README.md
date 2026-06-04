@@ -1,5 +1,4 @@
 # DSMarket — End-to-End Machine Learning Project
-*Lucía Zariquiey · Samuel Romero*
 
 ---
 
@@ -106,3 +105,6 @@ The dataset follows the structure of the M5 Forecasting Competition and is not i
 - `item_sales.csv` — daily unit sales by product and store
 - `item_prices.csv` — weekly prices by product and store  
 - `daily_calendar_with_events.csv` — dates, weekdays and commercial events
+
+
+*Lucía Zariquiey · Samuel Romero*
